@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_blue"
+        android:title="kuliner"/>
+    <item
+        android:id="@+id/nav_purple"
+        android:title="busana"/>
+    <item
+        android:id="@+id/nav_red"
+        android:title="to"/>
+    <item
+        android:id="@+id/nav_gray"
+        android:title="tpfl"/>
+    <item
+        android:id="@+id/nav_orange"
+        android:title="pplg"/>
+</menu>
